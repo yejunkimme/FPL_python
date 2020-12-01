@@ -42,6 +42,6 @@ fpl_defenders = fpl_defenders.loc[(mrg_mid["SCA90"] > 1.5)]
 ![Ast+AST90](https://user-images.githubusercontent.com/51032518/100705999-8b294180-33eb-11eb-96ec-a3a136443feb.png)  
 
 ![SCA_error_rate](https://user-images.githubusercontent.com/51032518/100706002-8bc1d800-33eb-11eb-8411-6648ebf61e1d.png)
- 
+
 
 

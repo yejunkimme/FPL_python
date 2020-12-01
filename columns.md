@@ -18,7 +18,7 @@ abbr.|term|explained
 -----|----|---------
 Gls|Goals|Goals scored or allowed
 Sh|Shots Total|Does not include penalty kicks
-SoT|Shots on target|Note: Shots on target do not include penalty kicks
+**SoT**|Shots on target|Note: Shots on target do not include penalty kicks
 **SoT%**|Shots on target percentage|Minimum .395 shots per squad game to qualify as a leader
 **Sh/90**|Shots total per 90 minutes|Minimum 30 minutes played per squad game to qualify as a leader
 **SoT/90**|Shots on target per 90 minutes|Minimum 30 minutes played per squad game to qualify as a leader

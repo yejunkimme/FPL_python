@@ -45,16 +45,25 @@ fpl_defenders = fpl_defenders.loc[(mrg_mid["SCA90"] > 1.5)]
 
 ![SCA_error_rate](https://user-images.githubusercontent.com/51032518/100706002-8bc1d800-33eb-11eb-8411-6648ebf61e1d.png)
 
-의외로, 경기당 SCA지수가 어시스트 획득에 직결되는 지표가 아님을 오차 막대 그래프에서 확인할 수 있다.
+의외로 경기당 SCA지수가 어시스트 획득에 직결되는 지표가 아님을 오차 막대 그래프에서 확인할 수 있다. 결국 SCA 이외에도 다음과 같은 지표들을 함께 넣어 그래프를 그렸고, 이 중 다섯 명의 선수를 선발했다. 
 
-이 오차율을 SCA90 상수로 써, 어시스트 획득 확률을 계산해 보았다. 
+![45 rotated](https://user-images.githubusercontent.com/51032518/100708229-4a332c00-33ef-11eb-85f3-278a2474485c.png)
+
+
+
+**개선할 점:**
+
+1. SCA/90 
+SCA/90와 어시스트간의 상관관계 오차율이 너무 커 SCA가 효율적인 지표로 활용되지 못했다. 이를 보완하기 위해 다음과 같은 수정사항을 제기했다. 스케일된 '어시스트-SCA/90' 값을 오차 상수로 써서, SCA/90값에 곱해보았다.
 
 ```
 fpl_defenders['SCA90_constant'] =( fpl_defenders['SCA_error_rate']* fpl_defenders['SCA90_scaled'] ) 
-
 ```
 
 ![SCA_constant](https://user-images.githubusercontent.com/51032518/100707165-91b8b880-33ed-11eb-9caf-11e3f6df7890.png)
 
-SCA90에 [Assist_scaled]-[SCA90_scaled]로 계산한 오차율을 상수로 곱하니 더 정교한 모델링 지표가 나왔다.
+그 결과 더 정교한 모델링 지표가 나왔다. 몇몇 선수를 제하고 거의 정확하게 어시스트 확률을 계산할 수 있게 됐다.
+
+2. 포인트 획득 세분화
+선수 선발 과정에서 
 

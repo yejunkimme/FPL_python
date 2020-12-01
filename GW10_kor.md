@@ -53,7 +53,7 @@ fpl_defenders = fpl_defenders.loc[(mrg_mid["SCA90"] > 1.5)]
 
 **개선할 점:**
 
-*1. SCA/90 *
+*1. SCA/90*
 
 SCA/90와 어시스트간의 상관관계 오차율이 너무 커 SCA가 효율적인 지표로 활용되지 못했다. 이를 보완하기 위해 다음과 같은 수정사항을 제기했다. 스케일된 '어시스트-SCA/90' 값을 오차 상수로 써서, SCA/90값에 곱해보았다.
 
@@ -65,11 +65,22 @@ fpl_defenders['SCA90_constant'] =( fpl_defenders['SCA_error_rate']* fpl_defender
 
 그 결과 더 정교한 모델링 지표가 나왔다. 몇몇 선수를 제하고 거의 정확하게 어시스트 확률을 계산할 수 있게 됐다.
 
-*2. 포인트 획득 세분화  *
+*2. 포인트 획득 세분화 *
 
 SCA/90 지표로 어시스트 확률을 계산할 수 있게 된 만큼 골, 무실점, 보너스 포인트로 인한 포인트 획득을 예측할 수 있는 지표들을 찾아내고 이를 통해 더욱 정교한 포인트 예측 모델을 만들어야 한다. 
 
+### 미드필더
 
+
+엘리트 그룹으로 추리기 위해 수비수와 마찬가지로 90x4분 이상의 출전시간, SCA/90>2.5로 필터링을 했다.
+```
+fpl_midfielders = fpl_midfielders.loc[(mrg['90s'] > 4)]
+fpl_midfielders = fpl_midfielders.loc[(mrg_mid["SCA90"] > 2.5)]
+```
+
+또한 상대 페널티 박스 안 터치 수 지표를 그래프에 추가해 비교했다. 
+
+![midfielder](https://user-images.githubusercontent.com/51032518/100709525-a303c400-33f1-11eb-8890-5fde926a071c.png)
 
 
 

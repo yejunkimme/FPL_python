@@ -117,6 +117,28 @@ fpl_midfielders = fpl_midfielders.loc[(mrg_mid["SCA90"] > 2.5)]
  마쉬아퀴 (DF)| 2+a|	1|	실패|	-1
  크레스웰 (DF)|	5|	2|	실패|	-3
  맥카시 (GK)|	2+a|	2|	성공|	-
-합계|	44+a|	40|	성공 : 5 실패 : 6| 	-4 + a
+합계|	44+a|	40|	성공 : 5<br>실패 : 6| 	-4 + a
 
+획득 세부
 
+이름|총 포인트|	포인트 세부
+----|---------|----------
+ 케인 (FW)|	2|	60+ : 2
+ 칼버트 (FW)|	2|	60+ : 2
+ 페르난데스 (MF)|	10|	60 + : 2<br>1G : 5<br>1A : 3
+ 손흥민 (MF)|	3|	60+ : 2<br>CS : 1
+ 클리히 (MF)|	3|	60+ : 2<br>CS : 1
+ 제네포 (MF)|	5|	60+ : 2<br>1A : 3
+ 로버트슨 (DF)|	2|	60+ : 2
+ 칠웰 (DF)|	8|	60+ : 2<br>CS : 4
+ 마쉬아퀴 (DF)|	1|	60- : 1
+ 크레스웰 (DF)|	2|	60+ : 2
+ 맥카시 (DF)|	2|	60+ : 2
+
+포인트 최다 획득 : 10 pts|포인트 최저 획득 : 1 pts
+------------------------|-----------------------
+페르난데스 (MF)<br>![bruno](https://resources.premierleague.com/premierleague/photos/players/110x140/p141746.png)|마쉬아퀴(DF)<br>![masuaku](https://resources.premierleague.com/premierleague/photos/players/110x140/p105717.png)
+
+(예상)-(결과) 최대 : +5 pts|(예상)-(결과) 최저 : -4 pts
+------------------------|-----------------------
+페르난데스 (MF)<br>![bruno](https://resources.premierleague.com/premierleague/photos/players/110x140/p141746.png)|칼버트(FW)<br>![DCL](https://resources.premierleague.com/premierleague/photos/players/110x140/p177815.png)

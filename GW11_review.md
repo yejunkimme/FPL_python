@@ -1,8 +1,8 @@
 # [20/21시즌 판타지 프리미어리그] 11라운드 리뷰
 
-- [라인업](#heading)
-  * [경기 결과](#sub-heading)
-    + [xG, xGA](#sub-sub-heading)
+- [라인업](#라인업)
+  * [경기 결과](#경기-결과)
+    + [xG, xGA](#xG,-xGA)
   * [키플레이어 비교](#sub-heading)
     + [살라 v 그릴리쉬](#sub-sub-heading)
     + [데브라이너 v 브루노 페르난데스](#sub-sub-heading)

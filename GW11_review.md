@@ -31,18 +31,15 @@
 
 #### 살라 v 그릴리쉬
 
-![SALAHvGREALISH](https://user-images.githubusercontent.com/51032518/101291511-b3ca9480-384c-11eb-9e21-c68b4279d238.png)
-
+<img src="https://user-images.githubusercontent.com/51032518/101291511-b3ca9480-384c-11eb-9e21-c68b4279d238.png" width="500" />
 
 #### 데브라이너 v 브루노 페르난데스
 
-
-![KDBvBruno](https://user-images.githubusercontent.com/51032518/101291512-b5945800-384c-11eb-855a-a74da92a9de6.png)
+<img src="https://user-images.githubusercontent.com/51032518/101291512-b5945800-384c-11eb-855a-a74da92a9de6.png" width="500" />
 
 #### 로버트슨 v 벤 칠웰
 
-
-![ANDYvBEN](https://user-images.githubusercontent.com/51032518/101291513-b6c58500-384c-11eb-80e9-ee0511ff8ebe.png)
+<img src="https://user-images.githubusercontent.com/51032518/101291513-b6c58500-384c-11eb-80e9-ee0511ff8ebe.png" width="500" />
 
 ### 가설 일정 v 폼
 

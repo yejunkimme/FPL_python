@@ -14,7 +14,7 @@
   * [페널티를 받고 이적을 할 때 고려해야 할 요소](#페널티를-받고-이적을-할-때-고려해야-할-요소)
     + [포인트를 급하게 쌓으려고 하지 말 것](#포인트를-급하게-쌓으려고-하지-말-것)
     + [퍼포먼스가 좋지 못 한 선수를 우선적으로 뺄 것](#퍼포먼스가-좋지-못-한-선수를-우선적으로-뺄-것) 
-- [GW Lesson](#포인트-분석)
+- [GW Lesson](#gw-lesseon)
 
 
 
@@ -61,12 +61,13 @@
 
 
 
-## 라인업
+## GW Lesson
+
+Don't make rash decisions:  
+Don't be swept away by emotions. Always make **rational decisions**.  
+Don't indulge yourself with your feelings. This is much more than a game.  
 
 
-
-
-## 경기 결과
 
 
 

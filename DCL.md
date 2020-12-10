@@ -1,13 +1,11 @@
 ## passing_types
 
-abbr.|term|explained
------|----|---------
-Live|Live-ball passes| 
-**Dead**|Dead-ball passes| Includes free kicks, corner kicks, </br>kick offs, throw-ins and goal kicks
-FK|Free Kick passes|Passes attempted from free kicks
-**TB**|Through Balls|Completed pass sent between back defenders </br>into open space
-**Press**|Passes made while under pressure from opponent
-**Sw**|Switches|Passes that travel more than 40 yards of the width </br>of the pitch
-Crs|Crosses| 
-Int|Intercepted| 
-Blocks|Blocked Passes|Blocked by the opponent who was standing </br>in the path
+GW|11|10|9|8|7|6|5|4
+---|----|----|----|----|----|----|----|----
+Trg/Cmp|59/22|67/40|73/36|53/26|41/29|38/13|54/30|50/44
+TrgPerc|33.3%|59.7%|49.3%|49.1%|70.7%|34.2%|60%|88%
+Goal|1G|0G|2G|0G|1G|0G|1G|1G
+Hamez|O|O|O|X|O|O|O|O
+Richa|O|O|O|O|X|X|O|X
+Digne|X|X|O|O|X|X|O|O
+Coleman|X|X|X|O|X|X|O|O

@@ -80,7 +80,7 @@
 
 
 ### 양적지표 분석
-![EI](https://user-images.githubusercontent.com/75112520/102644732-a8f4f580-41a4-11eb-97d1-f282362ac4e2.png)
+![EI](https://user-images.githubusercontent.com/75112520/102652818-5b32ba00-41b1-11eb-8d9d-8f48ff410458.png)
 이름|SoT/90|Att_Pen|Dist|Targ_90
 -----|-----|-----|-----|-----
 도미닉 칼버트-르윈|1.8|73|11.3|48.9

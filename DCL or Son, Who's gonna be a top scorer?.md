@@ -58,7 +58,7 @@
 
 # EPL 득점선두 3인방 : 도미닉 칼버트-르윈, 모하메드 살라, 손흥민의 비교 
 ### xG
-![xG](https://user-images.githubusercontent.com/75112520/102649040-de511180-41ab-11eb-9cea-ab79e6bd00cf.png)
+![xG](https://user-images.githubusercontent.com/75112520/102651504-02165680-41b0-11eb-826d-eff012a5bd4b.png)
 
 이름|득점|xG|득점-xG|
 -----|-----|-----|-----

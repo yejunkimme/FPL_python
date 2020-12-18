@@ -58,7 +58,7 @@
 
 # 도미닉 칼버트-르윈, 모하메드 살라, 손흥민의 데이터 비교
 ### xG 분석
-![xG](https://user-images.githubusercontent.com/75112520/102651504-02165680-41b0-11eb-826d-eff012a5bd4b.png)
+![xG](https://user-images.githubusercontent.com/75112520/102652100-e5c6e980-41b0-11eb-9ae6-674df102dc46.png)
 
 이름|xG|득점-xG
 -----|-----|-----

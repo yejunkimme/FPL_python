@@ -34,15 +34,20 @@ sns.distplot( df["sepal_length"], bins=20 )
 
 ### Bruno XXth, KDB xxth in Top 4 Europe Leagues. Summary for first section.
 
-description of each metrics in table.
+not-defensive minded midfielders: in this case, refers to players categorized as MF and not DF by fbref 159 players in PL.
+
+limitation of this data cull: includes players who are defensive minded e.g. Allan, Bissouma, Doucoure, Fernandinho, Hojbjerg, Patey and so on.
 
 ## Deep Dive of Bruno & KDB's stats
 
 ### Identifying type of player
 
-"Creative players": in this case, refers to players categorized as FW/MF (both, not either or) by fbref - ~210 player fit.
+weighting of metrics?
+
+![WDtD2Bv](https://user-images.githubusercontent.com/51032518/103175899-fcf09000-48b0-11eb-92ca-280cf708908d.png)
 
 ### Creativity
 
 ![KDBvBruno](https://user-images.githubusercontent.com/51032518/103175315-66ba6b00-48ac-11eb-95c0-a8ce05fc5e17.png)
 
+### 

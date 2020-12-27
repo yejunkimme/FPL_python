@@ -26,6 +26,8 @@ sns.distplot( df["sepal_length"], bins=20 )
 ![22_DensityPlot_Matplotlib-min](https://user-images.githubusercontent.com/51032518/103175214-9e74e300-48ab-11eb-916b-b42351019df6.png)
 *bonus: which league's pressure level is high?*
 
+(Metrics: % of pressure delivered in the att_3rd, PAdj pressure per 90)
+
 **IF** PL turns out to be the toughest environment for midfielders, this graphic justifies lagging figures for Bruno or KDB's stats)
 
 ### Highlight Bruno and KDB in extended Histogram to show they are TOP among EU
